@@ -24,7 +24,9 @@ Just import the class:
 import { PeerSetup } from "./PeerSetup.js";
 
 🎯 Basic Usage
-const peer = new PeerSetup({
+<pre>
+  <code>
+    const peer = new PeerSetup({
   localVideoRef: document.getElementById("localVideo"),
   remoteVideoRef: document.getElementById("remoteVideo"),
   constraint: { video: true, audio: true }
@@ -33,6 +35,9 @@ const peer = new PeerSetup({
 peer.on("candidate", (candidate) => {
   // send candidate to signaling server
 })
+  </code>
+</pre>
+
 
 🤝 Contributing
 
