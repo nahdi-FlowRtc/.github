@@ -9,7 +9,7 @@ PeerSetup abstracts the complexity of:
 🧹 Graceful connection cleanup
 
 📖 Documentation Preview
-<p align="center"> <a href="./lib.png"> <img src="./lib.png" alt="PeerSetup Documentation Preview" width="850"/> </a> </p>
+<p align="center"> <a href="./lib.png"> <img src="../lib.png" alt="PeerSetup Documentation Preview" width="850"/> </a> </p>
 ✨ Features
 
 # Simple API
