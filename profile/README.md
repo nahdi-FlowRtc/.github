@@ -26,7 +26,7 @@ import { PeerSetup } from "./PeerSetup.js";
 🎯 Basic Usage
 <pre>
   <code>
-    const peer = new PeerSetup({
+const peer = new PeerSetup({
   localVideoRef: document.getElementById("localVideo"),
   remoteVideoRef: document.getElementById("remoteVideo"),
   constraint: { video: true, audio: true }
@@ -34,6 +34,10 @@ import { PeerSetup } from "./PeerSetup.js";
 
 peer.on("candidate", (candidate) => {
   // send candidate to signaling server
+})
+
+ peer.on("RemoteDescription",(remote)=>{
+    console.log(remote)    <!--result expect from data  "Succes-RemoteDescription"  -->
 })
   </code>
 </pre>
