@@ -9,11 +9,11 @@ PeerSetup abstracts the complexity of:
 🧹 Graceful connection cleanup
 
 📖 Documentation Preview
-<p align="center"> <a href="./lib.png"> <img src="../lib.png" alt="PeerSetup Documentation Preview" width="850"/> </a> </p>
+ <a href="./lib.png"> <img src="../lib.png" alt="PeerSetup Documentation Preview" width="850"/> </a> 
 <img src="../mobile.png" alt="PeerSetup Documentation Preview" width="340"/> 
 ✨ Features
 
-<p align="center"> <a href="./lib.png"> <img src="../overview.png" alt="PeerSetup Documentation Preview" width="850"/> </a> </p>
+<a href="./lib.png"> <img src="../overview.png" alt="PeerSetup Documentation Preview" width="850"/> </a>  
 <img src="../next.png" alt="PeerSetup Documentation Preview" width="340"/> 
 # Simple API
 Built on native WebRTC
