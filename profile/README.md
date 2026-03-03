@@ -10,8 +10,11 @@ PeerSetup abstracts the complexity of:
 
 📖 Documentation Preview
 <p align="center"> <a href="./lib.png"> <img src="../lib.png" alt="PeerSetup Documentation Preview" width="850"/> </a> </p>
+<img src="../mobile.png" alt="PeerSetup Documentation Preview" width="850"/> 
 ✨ Features
 
+<p align="center"> <a href="./lib.png"> <img src="../overview.png" alt="PeerSetup Documentation Preview" width="850"/> </a> </p>
+<img src="../next.png" alt="PeerSetup Documentation Preview" width="850"/> 
 # Simple API
 Built on native WebRTC
 Custom event system (on, off, emit)
