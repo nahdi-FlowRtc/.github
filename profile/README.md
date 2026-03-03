@@ -11,7 +11,7 @@ PeerSetup abstracts WebRTC complexity and gives you a clean, predictable API to 
 ![npm](https://img.shields.io/npm/v/nahdi-flowrtc)
 ![license](https://img.shields.io/npm/l/nahdi-flowrtc)
 ![downloads](https://img.shields.io/npm/dt/nahdi-flowrtc)
-![size](https://img.shields.io/bundlephobia/min/nahdi-flowrtc)
+ 
 
 ---
 
@@ -52,8 +52,8 @@ PeerSetup handles the WebRTC plumbing.
 </p>
 
 <p >
-  <img src="../mobile.png" alt="PeerSetup Mobile Preview" width="340"/>
-   <img src="../next.png" alt="PeerSetup Mobile next.png   Preview" width="340"/>
+  <img src="../mobile.png" alt="PeerSetup Mobile Preview" width="200"/>
+   <img src="../next.png" alt="PeerSetup Mobile next.png   Preview" width="200"/>
 </p>
 
 ---
