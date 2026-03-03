@@ -189,3 +189,5 @@ If you like this library:
 - Use it in your next real-time app  
 
 🔥 Built for modern real-time web apps.
+
+and you can see our pacakge in npm  by <a href="https://www.npmjs.com/package/nahdi-flowrtc">  @nahdi-flowrtc </a>
