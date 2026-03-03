@@ -47,11 +47,11 @@ PeerSetup handles the WebRTC plumbing.
 ## 📖 Documentation Preview
 
 <p align="center">
-  <img src="./lib.png" alt="PeerSetup Desktop Preview" width="850"/>
+  <img src="../lib.png" alt="PeerSetup Desktop Preview" width="850"/>
 </p>
 
 <p align="center">
-  <img src="./mobile.png" alt="PeerSetup Mobile Preview" width="340"/>
+  <img src="../mobile.png" alt="PeerSetup Mobile Preview" width="340"/>
 </p>
 
 ---
